@@ -1,0 +1,20 @@
+PODS:
+  - EmailValidator (1.0.2)
+  - Navajo-Swift (2.1.0)
+
+DEPENDENCIES:
+  - EmailValidator
+  - Navajo-Swift
+
+SPEC REPOS:
+  trunk:
+    - EmailValidator
+    - Navajo-Swift
+
+SPEC CHECKSUMS:
+  EmailValidator: 366dc0ddedcc457ae14d269fa056416a6730d6ea
+  Navajo-Swift: 57b93e73efbfbf452433efbff04402de56beff51
+
+PODFILE CHECKSUM: c88a857672b0ff5d67c53fc6a4e5d28e55cad85c
+
+COCOAPODS: 1.11.3
